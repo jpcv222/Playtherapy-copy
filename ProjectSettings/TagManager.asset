@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sushi Samurai
+  - Text
+  - KatanaRight
+  - HandRight
+  - ShoulderLeft
+  - KatanaLeft
+  - ShoulderRight
+  - HandLeft
+  - Katana
+  - RLight
+  - New Tag
+  - Basket
+  - CountBalls
+  - Wall
+  - Foot
+  - Target
+  - Ball
+  - EndWall
+  - Planes
+  - Clouds
+  - Coins
+  - CanonRight
+  - CanonLeft
+  - cubeRight
+  - cubeLeft
+  - Playlist Check
+  - Terrain
+  - Airballoon
+  - AvatarPlatform
+  - Obstacle Rieles
+  - Animals
+  - Enemies
+  - StatusGame
+  - Pickup Rieles
+  - Repetition
+  - FingerTip
+  - Container
+  - BackgroundAudio
+  - Character
+  - Base
+  - GrabPoint
+  - Enemy
+  - Shield
+  - Asteroid
+  - coins
+  - RightHand
+  - LeftHand
+  - FxTemporaire
+  - RobotHand
+  - Building
+  - Robot
+  - Proyectile
+  - LeftSword
+  - RightSword
+  - GameControllerFight
+  - Parameters
+  - SwordParticle
+  - PunchParticle
+  - eraser
+  - ShowHandLeft
+  - ShowHandRight
+  - ShowSwordLeft
+  - ShowSwordRIght
+  - Help
+  - Floor
+  - KinectPlayer
+  - IPosition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 3D GUI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
